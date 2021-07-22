@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">20SOECE13036</string>
+    <string name="app_Title">About Us</string>
+    <string name="header">20SOECE13036</string>
+    <string name="FirstName">Mo Yameen</string>
+    <string name="MiddleName">Macchhar</string>
+    <string name="LastName">Hanif</string>
+    <string name="Email">mmacchhar949@rku.ac.in</string>
+    <string name="Password">................</string>
+    <string name="Gender">Male</string>
+    <string name="City">Junagadh</string>
+</resources>
